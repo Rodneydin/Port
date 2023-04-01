@@ -27,7 +27,7 @@ const Landing = ({ setSelectedPage }) => {
           <img
             alt="profile"
             className='hover:filter hover:saturate-200 transition duration-500z-10
-                w-full max-w-[400px] md:max-w-[600px] h-[200px]'
+                w-full max-w-[400px] md:max-w-[600px] h-[300px]'
             src="assets/profile-image.png"
           />
         )}
