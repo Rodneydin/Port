@@ -59,9 +59,9 @@ const Projects = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-          fames odio in at. At magna ornare dictum lectus. Purus massa morbi
-          purus nec eget eleifend ut elit.
+          The following projects showcase my skills and experience through real-world examples of my
+          work.Each project is basically described with links to code repository.It reflects my ability to solve complex problems
+          ,work with different techniques and manageprojects effectively.
         </p>
       </motion.div>
 
