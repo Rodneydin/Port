@@ -26,7 +26,8 @@ const Landing = ({ setSelectedPage }) => {
         ) : (
           <img
             alt="profile"
-            className="z-10 h-auto w-full max-w-[400px] md:max-w-[600px]"
+            className='hover:filter hover:saturate-200 transition duration-500z-10
+                w-full max-w-[400px] md:max-w-[600px]'
             src="assets/profile-image.png"
           />
         )}
@@ -56,7 +57,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-          I am an allround web developer. I am a senior programmer with good knowledge of front-end techniques.
+          I am an all-round web developer, senior programmer with good knowledge of front-end techniques.
           </p>
         </motion.div>
 
