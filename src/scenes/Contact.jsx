@@ -72,7 +72,7 @@ const Contact = () => {
             target="_blank"
             onSubmit={onSubmit}
             action="https://formsubmit.co/el/bedisa"
-            method="GET"
+            method="POST"
           >
             <input
               className="w-full bg-blue font-semibold placeholder-opaque-black p-3"
