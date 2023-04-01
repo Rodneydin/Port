@@ -26,8 +26,7 @@ const Project = ({ title }) => {
         <p className="text-2xl font-playfair">{title}</p>
         <p className="mt-7">
          The following projects showcase my skills and experience through real-world examples of my
-          work.Each project is basically described with links to code repository.It reflects my ability to solve complex problems
-          ,work with different techniques and manageprojects effectively.
+          work.
         </p>
       </div>
       <img src={`../assets/${projectTitle}.jpeg`} alt={projectTitle} />
